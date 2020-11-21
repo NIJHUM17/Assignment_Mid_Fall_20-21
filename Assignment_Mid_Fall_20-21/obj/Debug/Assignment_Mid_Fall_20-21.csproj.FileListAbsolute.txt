@@ -1,0 +1,7 @@
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\bin\Debug\Assignment_Mid_Fall_20-21.exe.config
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\bin\Debug\Assignment_Mid_Fall_20-21.exe
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\bin\Debug\Assignment_Mid_Fall_20-21.pdb
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\obj\Debug\Assignment_Mid_Fall_20-21.csprojAssemblyReference.cache
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\obj\Debug\Assignment_Mid_Fall_20-21.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\obj\Debug\Assignment_Mid_Fall_20-21.exe
+F:\Programming\C#\Assignment_Mid_Fall_20-21\Assignment_Mid_Fall_20-21\obj\Debug\Assignment_Mid_Fall_20-21.pdb
